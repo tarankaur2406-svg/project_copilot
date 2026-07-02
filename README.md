@@ -1,2 +1,3 @@
 # project_copilot
-a
+This is my copilot project using python  libraries
+
