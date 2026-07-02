@@ -1,3 +1,3 @@
 # project_copilot
-This is my copilot project using python  libraries
+This is a copilot project using python  libraries
 
